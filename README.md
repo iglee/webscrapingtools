@@ -5,6 +5,9 @@ Here, I explore webscraping tools, such as mongoDB and PyMongo.  I go through ba
 
 ## BeautifulSoup
 
-## html basics
+## HTML basics
+  - Basic HTML structure
+  - Lists
+  - Tables
 
-## aside on regular expressions
+## Aside on regular expressions
